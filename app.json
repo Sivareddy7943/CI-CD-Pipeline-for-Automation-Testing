@@ -1,0 +1,32 @@
+{
+  "id": "c7cb150b-56fa-4a90-a174-afa3b2c44b0c",
+  "name": "automationtesting",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.5.0.0",
+  "idRanges": [
+    {
+      "from": 90100,
+      "to": 90149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
